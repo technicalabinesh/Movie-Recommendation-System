@@ -35,5 +35,5 @@ License
 This project is released under the MIT License, which permits free use, modification, and distribution with proper attribution.
 
 Contact
-For any inquiries, feedback, or collaboration opportunities, please reach out
+For any inquiries, feedback, or collaboration opportunities, please reach out.  
 
