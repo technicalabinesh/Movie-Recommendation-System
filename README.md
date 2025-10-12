@@ -113,7 +113,7 @@ Feel free to:
 
 Report issues 🐞
 
-Suggest new features 💡
+Suggest new features 
 
 Create pull requests 🔁
 
